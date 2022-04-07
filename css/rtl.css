@@ -1,0 +1,129 @@
+*
+{
+	font-family: 'Cairo', 'sans-serif';
+}
+body
+{
+	direction: rtl;
+	text-align: right;
+}
+/* start arabic.html */
+.signup
+{
+	margin-right: 0 !important 
+}
+nav .nav-item .login:after
+{
+	margin-right: 5px;
+}
+.form-control
+{
+	margin-left: 8px
+}
+.selection_nav ul
+{
+	float: right;
+}
+.card h2 
+{
+    font-size: 1.8rem;
+}
+.btn-info
+{
+	margin-right: 40%
+}
+.cart img
+{
+	float: right;
+}
+.cart h1
+{
+	font-size: 2rem
+}
+.cart .quantity
+{
+	left: 20px;
+	right: initial;
+}
+.btn-danger
+{
+	left: 10px
+}
+.total
+{
+	width: 250px
+}
+.profile img
+{
+	margin-right: 20%
+}
+.btn-secondary
+{
+	left: 30%;
+	right: initial;
+}
+.rating
+{
+	direction: ltr;
+	margin-right: 10%;
+}
+@media (max-width: 575.98px)
+{
+	.navbar-nav li:last-child
+	{
+    	margin-right: auto!important;
+    	margin-left: initial;
+	}
+	.selection_nav ul li .subminu 
+	{
+    	left: 0;
+    }
+    .btn-outline-success
+	{
+		right: 25%
+	}
+}
+@media (min-width: 576px) and (max-width: 767.98px)
+{
+	.navbar-nav li:last-child
+	{
+    	margin-right: auto !important;
+    	margin-left: initial;
+	}
+	.btn-outline-success
+	{
+		right: 25%
+	}
+	section .row>div
+	{
+		margin-left: initial;
+		margin-right: 30%
+	}
+}
+@media (min-width: 768px) and (max-width: 991.98px)
+{
+	.navbar-nav li:last-child
+	{
+    	margin-right: auto !important;
+    	margin-left: initial;
+	}
+	.btn-outline-success
+	{
+		right: 25%
+	}
+}
+/* end arabic.html */
+/* start sign_up.html*/
+.form-check-label
+{
+	margin-right: 15px
+}
+/* end sign_up.html*/
+nav ul .nav-item:last-child
+{
+	margin-right: 0
+}
+.navbar-nav
+{
+    padding-right: 0px;
+}
